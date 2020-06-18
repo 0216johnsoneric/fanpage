@@ -1,0 +1,68 @@
+body {
+    background-image: url(https://www.johngreengo.com/wp-content/uploads/2018/08/gobi-desert-ripples-through-the-sand-and-sand-dunes-1500x900.jpg);
+}
+
+nav.main {
+    text-align: center;
+}
+
+h1 {
+    color: lightskyblue;
+    text-shadow: 2px 2px 5px black;
+    font-family: monospace;
+    font-size: 70px;
+}
+
+h2 {
+    color: lightcyan;
+    font-family: cursive;
+    font-size: 35px
+}
+
+h3 {
+    color: lightskyblue;
+    text-shadow: 2px 2px 5px black;
+    font-size: 35px
+}
+
+h4 {
+    color: whitesmoke;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+/* h5 {
+    text-align: center;
+} */
+
+li {
+    font-size: 30px;
+}
+
+p.statement {
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+.one {
+    color: red;
+}
+
+.two {
+    color: purple;
+}
+
+.three {
+    color: blue;
+}
+
+.four {
+    color: gold;
+}
+
+p.link {
+    font-size: 30px;
+}
+/* h6 {
+    font-size: 30px;
+} */
