@@ -76,9 +76,9 @@ p.link {
 .link:hover {
   transform: scale(2.0); 
 }
-.picture:hover {
+/* .picture:hover {
   transform: scale(.75); 
-}
+} */
 /* h6 {
     font-size: 30px;
 } */
