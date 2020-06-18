@@ -47,21 +47,37 @@ p.statement {
 .one {
     color: red;
 }
-
+.one:hover {
+  transform: scale(2.0); 
+}
 .two {
     color: purple;
+}
+.two:hover {
+  transform: scale(2.0); 
 }
 
 .three {
     color: blue;
 }
-
+.three:hover {
+  transform: scale(2.0); 
+}
 .four {
     color: gold;
+}
+.four:hover {
+  transform: scale(2.0); 
 }
 
 p.link {
     font-size: 30px;
+}
+.link:hover {
+  transform: scale(2.0); 
+}
+.picture:hover {
+  transform: scale(.75); 
 }
 /* h6 {
     font-size: 30px;
